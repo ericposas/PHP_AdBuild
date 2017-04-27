@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+}
+
+#container{
+    cursor: pointer;
+}
+
+#reload{
+    cursor: pointer;
+    bottom: -11px;
+    left: -7px;
+}
+
+#x{
+    cursor: pointer;
+}
+
+#btn_div{
+    width: 98px;
+    height: 20px;
+    top: 43px;
+    right: 78px;
+}
+
+#x_div{
+    width: 18px;
+    height: 18px;
+    right: 35px;
+    top: 5px;
+}
+
+#legal_div{
+    width: 118px;
+    height: 15px;
+    bottom: 0px;
+    right: 64px;
+}
+
+#up_div{
+    width: 20px;
+    height: 18px;
+    right: 33px;
+    top: 24px;
+}
+
+#down_div{
+    width: 20px;
+    height: 18px;
+    right: 33px;
+    top: 46px;
+}
+
+#legal_text_div{
+    top: 13px;
+    left: 26px;
+    position: absolute;
+    width: 650px;
+    height: 66px;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+#legal_text_image{
+    top: 0px;
+    left: -28px;
+    width: 728px;
+    display: none;
+    position: relative;
+}

@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+}
+
+#container{
+    cursor: pointer;
+}
+
+#reload{
+    cursor: pointer;
+    top: -8px;
+    left: -8px;
+}
+
+#clickArea{
+    width: 728px;
+    height: 90px;
+    cursor: pointer;
+}
+
+#x{
+    cursor: pointer;
+}
+
+#btn_div{
+    width: 86px;
+    height: 24px;
+    top: 15px;
+    left: 554px;
+}
+
+#x_div{
+    top: 2px;
+    right: 4px;
+    width: 20px;
+    height: 20px;
+}
+
+#legal_div{
+    width: 100px;
+    height: 12px;
+    bottom: 0px;
+    right: 188px;
+}
+
+#up_div{
+    width: 20px;
+    height: 20px;
+    right: 10px;
+    top: 26px;
+}
+
+#down_div{
+    width: 20px;
+    height: 18px;
+    right: 10px;
+    top: 48px;
+}
+
+#legal_text_div{
+    top: 13px;
+    left: 8px;
+    position: absolute;
+    width: 740px;
+    height: 62px;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+#legal_text_image{
+    top: 0px;
+    left: -6px;
+    width: 768px;
+    display: none;
+    position: relative;
+}

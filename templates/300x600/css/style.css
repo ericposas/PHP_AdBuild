@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+}
+
+#container{
+    cursor: pointer;
+}
+
+#reload{
+    cursor: pointer;
+    bottom: -11px;
+    right: -7px;
+}
+
+#x{
+    cursor: pointer;
+}
+
+#globe{
+    left: -6px;
+}
+
+#btn_div{
+    width: 150px;
+    height: 28px;
+    top: 384px;
+    left: 72px;
+}
+
+#x_div{
+    top: 48px;
+    right: 14px;
+    width: 24px;
+    height: 24px;
+}
+
+#legal_div{
+    width: 118px;
+    height: 16px;
+    bottom: 0px;
+    left: 84px;
+}
+
+#up_div{
+    width: 28px;
+    height: 24px;
+    right: 14px;
+    top: 262px;
+}
+
+#down_div{
+    width: 28px;
+    height: 24px;
+    right: 14px;
+    top: 288px;
+}
+
+#legal_text_div{
+    top: 60px;
+    left: 0px;
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+#legal_text_image{
+    top: 0px;
+    width: 300px;
+    display: none;
+    position: relative;
+}
+
+#btn{
+    top: -60px;
+}

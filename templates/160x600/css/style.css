@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+}
+
+#container{
+    cursor: pointer;
+}
+
+#reload{
+    cursor: pointer;
+    bottom: -11px;
+    right: -7px;
+}
+
+#x{
+    cursor: pointer;
+}
+
+#btn_div{
+    width: 146px;
+    height: 30px;
+    top: 438px;
+    left: 6px;
+}
+
+#x_div{
+    top: 32px;
+    left: 132px;
+    width: 20px;
+    height: 20px;
+}
+
+#legal_div{
+    width: 118px;
+    height: 14px;
+    bottom: 0px;
+    left: 0px;
+}
+
+#up_div{
+    width: 20px;
+    height: 20px;
+    right: 8px;
+    top: 214px;
+}
+
+#down_div{
+    width: 20px;
+    height: 20px;
+    right: 8px;
+    top: 240px;
+}
+
+#legal_text_div{
+    top: 30px;
+    left: 0px;
+    position: absolute;
+    width: 160px;
+    height: 542px;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+#legal_text_image{
+    top: -0px;
+    width: 160px;
+    display: none;
+    position: relative;
+}
+
+#btn{
+    top: 8px;
+}
